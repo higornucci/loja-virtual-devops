@@ -118,7 +118,7 @@
                 <configuration>
                     <driver>org.hsqldb.jdbcDriver</driver>
                     <path>file:data/broadleaf</path>
-                    <address>localhost</address>
+                    <address>localhost:9040</address>
                     <name>broadleaf</name>
                 </configuration>
 
